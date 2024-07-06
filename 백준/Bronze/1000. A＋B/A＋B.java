@@ -5,6 +5,6 @@ public class Main{
         int A = sc.nextInt();
         int B = sc.nextInt();
         
-        System.out.printf("%d",A+B);
+        System.out.println(A+B);
     }
 }
